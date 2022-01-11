@@ -1,5 +1,5 @@
 # ankiSwirl
-Anki deck to help those new to R programming.
+Anki deck to help those new to R programming.  It follows the swirl package, which you can learn more about here: https://swirlstats.com or by typing install.packages("swirl") then library(swirl) and swirl() in your R console or RStudio.
 
 
 To Install:
