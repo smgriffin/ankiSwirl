@@ -16,6 +16,15 @@ The cards are organized by tags so to study a specific topic you can either susp
 
 I will continue to add more cards as I work through the tutorial and refresh my memory.
 
+Currently Contains:
+R Programming
+  Basics
+  Files
+  
+Getting and Cleaning Data
+  Manipulating Data with dplyr
+  
+
 Changelog
 V0.1 - Uploaded the original deck
 
