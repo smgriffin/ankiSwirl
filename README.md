@@ -29,12 +29,17 @@ R Programming
   6. Subsetting Vectors
   7. Matrices and Data Frames
   8. Logic
+  9. Functions
+  10. lapply and sapply
+  11. vapply and tapply
   
 Getting and Cleaning Data
   1. Manipulating Data with dplyr
   
 
 Changelog
+
+V0.3 - Added additional chapters, improved cloze, added args to some functions
 
 V0.2 - Added additional chapters, improved cloze and tags
 
@@ -44,3 +49,5 @@ V0.1 - Uploaded the original deck
 To do:
 1. Continue to add more cards and tutorials
 2. Adjust tags to better reflect the tutorial titles
+3. Improve consistency of function cards
+4. Improve cloze formatting
