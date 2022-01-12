@@ -14,7 +14,7 @@ Once added to Anki simply select the deck and study now.
 
 To Study by Specific Topic:
 
-The cards are organized by tags so to study a specific topic you can either suspend the cards without the tag in the Browse section, or create a custom study and then select Study by Tag.
+The cards are organized by tags, to study a specific topic you can either suspend the cards without your preferred tag in the Browse section, or create a custom study and then select Study by Tag.
 
 I will continue to add more cards as I work through the tutorial and refresh my memory.
 
