@@ -9,14 +9,17 @@ To Install:
 4. Select .apkg file
 
 To Use:
+
 Once added to Anki simply select the deck and study now.
 
 To Study by Specific Topic:
+
 The cards are organized by tags so to study a specific topic you can either suspend the cards without the tag in the Browse section, or create a custom study and then select Study by Tag.
 
 I will continue to add more cards as I work through the tutorial and refresh my memory.
 
 Currently Contains:
+
 R Programming
   1. Basics
   2. Files
@@ -32,10 +35,12 @@ Getting and Cleaning Data
   
 
 Changelog
+
 V0.2 - Added additional chapters, improved cloze and tags
+
 V0.1 - Uploaded the original deck
 
 
-To do
-Continue to add more cards and tutorials
-Adjust tags to better reflect the tutorial titles
+To do:
+1. Continue to add more cards and tutorials
+2. Adjust tags to better reflect the tutorial titles
