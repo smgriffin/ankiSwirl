@@ -18,15 +18,23 @@ I will continue to add more cards as I work through the tutorial and refresh my 
 
 Currently Contains:
 R Programming
-  Basics
-  Files
+  1. Basics
+  2. Files
+  3. Sequences of Numbers
+  4. Vectors
+  5. Missing Values
+  6. Subsetting Vectors
+  7. Matrices and Data Frames
+  8. Logic
   
 Getting and Cleaning Data
-  Manipulating Data with dplyr
+  1. Manipulating Data with dplyr
   
 
 Changelog
+V0.2 - Added additional chapters, improved cloze and tags
 V0.1 - Uploaded the original deck
+
 
 To do
 Continue to add more cards and tutorials
